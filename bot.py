@@ -41,7 +41,7 @@ class Flow3:
         {Fore.GREEN + Style.BRIGHT}Auto Claim {Fore.BLUE + Style.BRIGHT}Flow3 - BOT
             """
             f"""
-        {Fore.RED + Style.BRIGHT}Telegram Channel:{Fore.PINK + Style.BRIGHT}(https://t.me/D4rkCipherX)
+        {Fore.GREEN + Style.BRIGHT}Telegram Channel:{Fore.RED + Style.BRIGHT}(https://t.me/D4rkCipherX)
             """
         )
 
