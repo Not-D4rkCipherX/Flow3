@@ -15,7 +15,7 @@ Download Extension : [Flow3 Extension](https://chromewebstore.google.com/detail/
   - Auto Send Ping Every 1 Minutes
   - Multi Accounts With Threads
 
-## Requiremnets
+## Requirements
 
 - Make sure you have Python3.9 or higher installed and pip.
 
@@ -28,7 +28,7 @@ Download Extension : [Flow3 Extension](https://chromewebstore.google.com/detail/
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
 
-## Configuration
+## Account Setup
 ```bash
 nano accounts.txt
 ```
